@@ -36,6 +36,25 @@ By identifying and addressing requirements early in the development process, Req
 
 3️⃣ **Guides Design and Development**  
 Well-documented requirements provide a solid foundation for designing system architecture and developing features. This ensures that the solution is both functional and aligned with user needs, leading to higher-quality software.
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several important activities that help ensure a project’s success. These activities work together to define, document, and validate the system’s requirements.
+
+- **Requirement Gathering**  
+  This is the process of collecting information from stakeholders about their needs, expectations, and objectives for the system. It often involves interviews, surveys, and reviewing existing documentation.
+
+- **Requirement Elicitation**  
+  In this activity, the development team refines and clarifies gathered information using techniques such as brainstorming, workshops, and prototyping. The goal is to ensure that the requirements are well understood and accurately captured.
+
+- **Requirement Documentation**  
+  This involves creating detailed records of the system’s functional and non-functional requirements. The documentation serves as a reference for stakeholders, designers, and developers throughout the project.
+
+- **Requirement Analysis and Modeling**  
+  The requirements are analyzed for feasibility, consistency, and completeness. Modeling techniques (such as use case diagrams, flowcharts, or data models) are used to visually represent system interactions and processes.
+
+- **Requirement Validation**  
+  This final activity ensures that the documented requirements are accurate, complete, and aligned with stakeholder needs. It typically involves reviews, walkthroughs, and approval sessions with stakeholders.
+
 
 
 

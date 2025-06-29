@@ -1,4 +1,3 @@
-![ChatGPT Image Jun 29, 2025, 10_14_21 AM](https://github.com/user-attachments/assets/932d560e-6629-4cea-b755-1d8b60d70ca6)
 # requirement-analysis
 # Requirement Analysis in Software Development
 
@@ -93,6 +92,7 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 
 ### Booking Management System Use Case Diagram
 Below is a use case diagram for our booking management system, showing key actors and their interactions with the system.
+![ChatGPT Image Jun 29, 2025, 10_14_21 AM](https://github.com/user-attachments/assets/8a98e322-6b17-4b1e-a800-9ec638072c77)
 
 
 

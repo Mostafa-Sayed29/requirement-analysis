@@ -92,9 +92,8 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 
 ### Booking Management System Use Case Diagram
 Below is a use case diagram for our booking management system, showing key actors and their interactions with the system.
+https://drive.google.com/file/d/1KYMfab2ZMTa_Oi6epXJ2axolTA-IZKUM/view?usp=drivesdk
 
-![Booking Management System Use Case Diagram](alx-booking-uc.png)
-![Booking Management System Use Case Diagram](alx-booking-uc.png)
 
 
 
